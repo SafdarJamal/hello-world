@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<p align='center'>
+  <img src='./public/window.png' width='600' alt='Window'>
+</p>
+
 ## Available Scripts
 
 In the project directory, you can run:
